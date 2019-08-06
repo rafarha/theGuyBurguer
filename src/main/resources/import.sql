@@ -1,0 +1,5 @@
+--insert into TB_INGREDIENT values(1, 'MEAT', 22);
+--insert into TB_INGREDIENT values(2, 'EGG', 22);
+--insert into TB_BURGUER values (1, 'X-EGG')
+--insert into TB_BURGUER_INGREDIENT values (1, 1);
+--insert into TB_BURGUER_INGREDIENT values (1, 2);
